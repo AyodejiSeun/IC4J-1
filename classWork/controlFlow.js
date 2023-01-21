@@ -1,17 +1,26 @@
 // Write a program that allow only user below 18 years in our website
+// let message = hello;
+// let age = prompt("how old are you")
+// if(age<18)
+// {message="welcome"}
+// else{
+//     message="overage"
+// }
+// alert(message)
+
 // Tip: create a Global variable call accessAllowed
 // Create a variable that holds the user's age
 
 // Soltn
-//  let accessAllowed;
+ let accessAllowed;
 
-//  let age = prompt("Enter your age? ")
+ let age = prompt("Enter your age? ")
 
-//  if(age < 18){
-//     accessAllowed = "Access Granted"
-//  }else {
-//     accessAllowed = "Access Denied"
-//  }
+ if(age < 18){
+    accessAllowed = "Access Granted"
+ }else {
+    accessAllowed = "Access Denied"
+ }
 // let varName = condition ? true : false
 // let accessAllowed = age < 18 ? true : false
 // let accessAllowed = age < 18 ? alert("Access Granted") : alert("Access Not Granted")"Access Not Granted"
