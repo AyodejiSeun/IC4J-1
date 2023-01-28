@@ -1,4 +1,7 @@
 // create a function that returns my name.
 // Takes my firstname and lastname as parameters
 // also age para
-// and return my name, age
+
+// sltn
+// My ezekeil Adetoro I am 23 years old
+
